@@ -1,4 +1,4 @@
-plain texit
+
 pandas
 numpy
 yfinance
